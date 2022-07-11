@@ -1,6 +1,6 @@
 ## Olá! Eu Sou o Leonardo Silva
 
-- ⚙ Futuro Analista de Teste/QA
+- ⚙ Analista de Teste/QA
 - 🤓 Estudando automatização de Testes 
        <ol> * Selenium </ol>
        <ol> * Cucumber </ol>
